@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
 <br>
