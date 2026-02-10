@@ -57,12 +57,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushJi040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJi040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushJi040&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJi040&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushJi040&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PiyushJi040&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 <br>
@@ -78,7 +78,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushJi040&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushJi040&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -121,11 +121,7 @@
 
 <br>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PiyushJi040/PiyushJi040/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br>
 
