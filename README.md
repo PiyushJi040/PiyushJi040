@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=I'm+Piyush+Ji+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=I'm+Piyush+Jaiswal+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,16 +15,13 @@
 
 ## 🎯 About Me
 
-```javascript
-const piyush = {
-    location: "India 🇮🇳",
-    currentFocus: "Building cool stuff & learning new tech",
-    hobbies: ["Coding 💻", "Problem Solving 🧠", "Exploring Tech 🔍"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    askMeAbout: ["Web Dev", "DSA", "Open Source"],
-    reachMe: "Let's connect and build something amazing!"
-};
-```
+- 🌍 Based in **India**
+- 💼 Full Stack Developer passionate about building cool stuff
+- 🎯 Currently focused on learning new technologies and solving problems
+- 💡 Ask me about **Web Dev**, **DSA**, **Open Source**
+- 🎮 Hobbies: Coding 💻 | Problem Solving 🧠 | Exploring Tech 🔍
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
+- 📫 Reach me: **jaiswalpiyush040@gmail.com**
 
 <br>
 
@@ -109,9 +106,8 @@ const piyush = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushJi040)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushji040)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/piyushji040)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jaiswal-1625b6253)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalpiyush040@gmail.com)
 
 </div>
 
