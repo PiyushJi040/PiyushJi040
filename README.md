@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
 
 <br>
@@ -118,6 +118,14 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PiyushJi040/PiyushJi040/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <br>
 
