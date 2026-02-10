@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PiyushJi040&theme=radical" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=PiyushJi040&theme=radical" alt="GitHub Streak" width="60%"/>
 </p>
 
 <br>
