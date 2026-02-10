@@ -56,30 +56,30 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushJi040&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJi040&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushJi040&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJi040&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PiyushJi040&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushJi040&theme=radical" alt="GitHub Streak" width="60%"/>
+</p>
 
 <br>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
+</p>
 
 <br>
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushJi040&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushJi040&theme=github-compact&hide_border=true" alt="Contribution Graph" width="95%"/>
+</p>
 
 <br>
 
