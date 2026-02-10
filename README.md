@@ -67,10 +67,15 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushJi040&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyushJi040&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiyushJi040&theme=radical" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyushJi040&theme=radical" alt="Most Commit Language" width="48%"/>
 </p>
 
 <br>
